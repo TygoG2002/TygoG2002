@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💻 About Me:
 C# & ASP.NET Core developer in training.<br>I like clean code, solid architecture, and learning by building.
 
 
